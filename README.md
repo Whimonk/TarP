@@ -1,6 +1,7 @@
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
    +            TarP v1.0     Target Gene Prediction software            +   
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 (c) 2023 State Key Laboratory of Resource Insects, Southwest University, Chongqing 400715, China
 
 Authors: Fan Ting, MicroRNA research group
