@@ -82,4 +82,4 @@ MiRNA:              3'      G U A A A A C G C U A G   C G G U U U U G C U      5
 
 <h2>Other:</h2>
 
-    If you have any doubts and suggestions about TarP software, you are welcome to communicate with us by email (FanTing_0123@163.com).
+<pre>    If you have any doubts and suggestions about TarP software, you are welcome to communicate with us by email (FanTing_0123@163.com).</pre>
