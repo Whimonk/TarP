@@ -76,7 +76,7 @@ MiRNA:              3'      G U A A A A C G C U A G   C G G U U U U G C U      5
     -tarnum  <value>:(default:3)                          # Number of output predicted per target gene.
    
     -display <string:on|off>:(default:off)                # Output the running process on the terminal.
-    -v,--version                                          # You can enter the '/absolute/path/to/tarp.exe -v'(Windows) or '/absolute/path/to/tarp -v'(Linux), and gain the help version information.
+    -v,--version                                          # You can enter the '/absolute/path/to/tarp.exe -v'(Windows) or '/absolute/path/to/tarp -v'(Linux), and gain the version information.
     -h,--help                                             # You can enter the '/absolute/path/to/tarp.exe -h'(Windows) or '/absolute/path/to/tarp -v'(Linux), and gain the help manual.
 
 
