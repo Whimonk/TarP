@@ -48,10 +48,10 @@ MiRNA:              3'      G U A A A A C G C U A G   C G G U U U U G C U      5
 
 <h3>1. Windows:</h3>
 <pre>    $ /absolute/path/to/tarp.exe [-Options <value/string>]
-    # eg:</pre>
+    # eg:/absolute/path/to/tarp.exe -prefile /absolute/path/to/miR-Input.fa -tarfile /absolute/path/to/Tar-Input.fa -outfdir /absolute/path/to/outputdir -display on</pre>
 <h3>2. Linux:</h3>
 <pre>    $ /absolute/path/to/tarp [-Options <value/string>]
-    # eg:</pre>
+    # eg:/absolute/path/to/tarp -prefile /absolute/path/to/miR-Input.fa -tarfile /absolute/path/to/Tar-Input.fa -outfdir /absolute/path/to/outputdir -display on</pre>
 
 <h3>-Options:</h3>
 
