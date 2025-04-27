@@ -4,7 +4,7 @@
 
 (c) 2023 State Key Laboratory of Resource Insects, Southwest University, Chongqing 400715, China
 
-Authors: Fan Ting, MicroRNA research group
+<h1>Authors: Fan Ting, MicroRNA research group</h1>
 
 Software written by: Fan Ting
 Distributed for anyone to use under the GNU Public License (GPL),See the files 'COPYING' and 'LICENSE' for details
