@@ -37,9 +37,9 @@ MiR Seq: CAUUGCACUUGUCUCGGUCUGA
 St: 64.81
 En: 67.06
 
-Target:			5'		U	C	A		G	U	U	A	U	U	A	G	G	C	U	G	G	G	U	G	C	A	G	U	G			3'	
-matchstate:				|	|	|		:	:	:				|	|	:		:	:	:	|	|	|	|	|	:	|	|	   			
-MiRNA:			3'		A	G	U	C	U	G	G	C			U	C	U		G	U	U	C	A	C	G	U	U	A	C			5'	
+Target:        5'    U C A   G U U A U U A G G C U G G G U G C A G U G    3'	
+matchstate:          | | |   : : :       | | :   : : : | | | | | : | |	   			
+MiRNA:         3'    A G U C U G G C     U C U   G U U C A C G U U A C    5'	
 
 
 Tar ID: SHMT-RA-3UTR
@@ -49,9 +49,9 @@ MiR Seq: UCAGAUCUACUUAAUACCCAU
 St: 56.99
 En: 60.11
 
-Target:			5'		G	U	G	G	A	G	A	G	G	U	U	U	U		U	A	G	A	U	C	U	G	U	A			3'	
-matchstate:				:	|	|	|					:	|	|				|	|	|	|	|	|	|	|		|	   			
-MiRNA:			3'		U	A	C	C	C	A			U	A	A	U	U	C	A	U	C	U	A	G	A	C		U			5'	
+Target:        5'    G U G G A G A G G U U U U   U A G A U C U G U A    3'	
+matchstate:          : | | |         : | |       | | | | | | | |   |
+MiRNA:         3'    U A C C C A     U A A U U C A U C U A G A C   U    5'	
 
 </pre>
 
