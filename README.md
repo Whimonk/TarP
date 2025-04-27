@@ -1,24 +1,20 @@
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
    +            TarP v1.0     Target Gene Prediction software            +   
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-(c) 2023 State Key Laboratory of Resource Insects, Southwest University
-, Chongqing 400715, China
+(c) 2023 State Key Laboratory of Resource Insects, Southwest University, Chongqing 400715, China
 
 Authors: Fan Ting, MicroRNA research group
 
 Software written by: Fan Ting
-Distributed for anyone to use under the GNU Public License (GPL),
-See the files 'COPYING' and 'LICENSE' for details
+Distributed for anyone to use under the GNU Public License (GPL),See the files 'COPYING' and 'LICENSE' for details
 
 If you use this software please cite:
 The literature of TarP
 
 TarP comes with ABSOLUTELY NO WARRANTY;
-This is free software, and you are welcome to redistribute it
-under certain conditions;
+This is free software, and you are welcome to redistribute it under certain conditions;
 
-TarP is an effective target prediction software which aims to 
-predict target gene and acquire a target site binding map.
+TarP is an effective target prediction software which aims to predict target gene and acquire a target site binding map.
 
 
 USAGE:	('#' is a command indicator, and some systems use '$'.)
@@ -57,5 +53,4 @@ USAGE:	('#' is a command indicator, and some systems use '$'.)
 
 -Other:
 
-    If you have any doubts and suggestions about TarP software, you
-are welcome to communicate with us by email (FanTing_0123@163.com).
+    If you have any doubts and suggestions about TarP software, you are welcome to communicate with us by email (FanTing_0123@163.com).
