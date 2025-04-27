@@ -47,10 +47,10 @@ MiRNA:              3'      G U A A A A C G C U A G   C G G U U U U G C U      5
 <h2>USAGE:</h2>
 
 <h3>1. Windows:</h3>
-<pre>    $ /absolute/path/to/tarp.exe [-Options <value|string>]*
+<pre>    $ /absolute/path/to/tarp.exe [-Options xxx]*
  eg:# /absolute/path/to/tarp.exe -prefile /absolute/path/to/Examples/miR-Input.fa -tarfile /absolute/path/to/Examples/Tar-Input.fa -outfdir /absolute/path/to/Examples -display on</pre>
 <h3>2. Linux:</h3>
-<pre>    $ /absolute/path/to/tarp [-Options <value|string>]*
+<pre>    $ /absolute/path/to/tarp [-Options xxx]*
  eg:# /absolute/path/to/tarp -prefile /absolute/path/to/Examples/miR-Input.fa -tarfile /absolute/path/to/Examples/Tar-Input.fa -outfdir /absolute/path/to/Examples -outfpre TarPPreResult -auto on -ug on -seed on -move 3 -jump 0 -mode s2s -st 75 -en 65 -tarnum 1 -weight 2,10,3,7,0.01 -thread 2 -display on</pre>
 
 <h3>-Options:</h3>
