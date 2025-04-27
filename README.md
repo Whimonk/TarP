@@ -1,5 +1,5 @@
 <h1>TarP</h1>
-<p>    This is a miRNA target prediction tool based on polymorphic structured base alignment algorithm. The tool can realize target prediction of specific or non-specific species, conservative or non-conservative sequences based on user-defined parameter combinations. Using it can help users get the candidate targets of miRNA accurately, and lay the foundation for further research.</p>
+<p>\tThis is a miRNA target prediction tool based on polymorphic structured base alignment algorithm. The tool can realize target prediction of specific or non-specific species, conservative or non-conservative sequences based on user-defined parameter combinations. Using it can help users get the candidate targets of miRNA accurately, and lay the foundation for further research.</p>
 
 
 <h2>Data Frame:</h2>
